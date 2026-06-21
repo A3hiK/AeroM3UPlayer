@@ -1,0 +1,7 @@
+System.ArgumentException: Control does not support transparent background colors.
+   at System.Windows.Forms.Control.set_BackColor(Color value)
+   at M3UPlayer.MediaIconButton..ctor() in C:\Users\Admin\Desktop\M3U Play\M3UPlayer\MainForm.cs:line 75
+   at M3UPlayer.MainForm.SetupMediaControlCard() in C:\Users\Admin\Desktop\M3U Play\M3UPlayer\MainForm.cs:line 849
+   at M3UPlayer.MainForm.SetupUI() in C:\Users\Admin\Desktop\M3U Play\M3UPlayer\MainForm.cs:line 531
+   at M3UPlayer.MainForm..ctor() in C:\Users\Admin\Desktop\M3U Play\M3UPlayer\MainForm.cs:line 404
+   at M3UPlayer.Program.Main() in C:\Users\Admin\Desktop\M3U Play\M3UPlayer\Program.cs:line 10
