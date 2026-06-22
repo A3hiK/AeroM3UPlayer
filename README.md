@@ -35,10 +35,6 @@ Whether you're loading playlists from local files or remote URLs, AeroM3U Player
 
 </div>
 
-> 💡 Place your screenshots inside a `screenshots/` folder in the repo root, named `home.png`, `channels.png`, and `player.png` (or update the paths above to match your filenames).
-
----
-
 ## ✨ Key Features
 
 | Feature | Description |
