@@ -1,4 +1,5 @@
 <div align="center">
+<img width="250" height="250" alt="appicon" src="https://github.com/user-attachments/assets/0787b290-fe31-4aba-9df0-ed890788b39a" />
 
 # 🚀 AeroM3U Player
 
